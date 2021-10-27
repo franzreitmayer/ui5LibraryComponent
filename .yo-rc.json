@@ -1,0 +1,16 @@
+{
+  "generator-ui5-library": {
+    "libraryname": "ui5LibraryComponent",
+    "namespace": "eu.reitmayer.ui5",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.86.3",
+    "author": "Franz Reitmayer",
+    "newdir": true,
+    "namespaceURI": "eu/reitmayer/ui5",
+    "librarynamespace": "eu.reitmayer.ui5.ui5LibraryComponent",
+    "librarynamespaceURI": "eu/reitmayer/ui5/ui5LibraryComponent",
+    "librarybasepath": "../../../../",
+    "frameworklowercase": "openui5",
+    "setupCompleted": true
+  }
+}

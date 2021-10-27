@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>eu.reitmayer.ui5.ui5LibraryComponent</name>
+	<vendor>Franz Reitmayer</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>ui5LibraryComponent</title>
+	<documentation>Some description about ui5LibraryComponent</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>
